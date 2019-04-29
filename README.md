@@ -1,4 +1,4 @@
-# Next React Context
+# Next Context
 
 Minimal example of using Next.js with React Context. This example is simple counter application.
 This project using React, Next.js and bulma.
