@@ -11,6 +11,18 @@ First of all, clone this repository to your workspace.
 git clone git@github.com:GankCC/next-context.git
 ```
 
+Go to next-context directory.
+
+```
+cd next-context
+```
+
+Install dependencies.
+
+```
+npm install
+```
+
 Then run application by this command.
 
 ```
